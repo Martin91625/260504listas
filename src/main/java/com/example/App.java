@@ -3,7 +3,7 @@
 * Author: El Miri Martin
 * Copyright: 2026, El Miri Martin
 * Group: Szoft I/N
-* Date: 2026-04-21
+* Date: 2026-05-04
 * Github: https://github.com/Martin91625/
 * Licenc: MIT
 */
@@ -27,7 +27,7 @@ public class App extends Application {
 
     @Override
     public void start(Stage stage) throws IOException {
-        scene = new Scene(loadFXML("mainScene"), 640, 480);
+        scene = new Scene(loadFXML("MainScene"), 640, 480);
         stage.setScene(scene);
         stage.show();
     }
