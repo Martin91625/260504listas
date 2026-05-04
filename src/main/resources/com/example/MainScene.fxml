@@ -12,7 +12,7 @@
       <Label layoutX="36.0" layoutY="239.0" text="Új gyümölcs" />
       <TextField fx:id="fruitTextField" layoutX="36.0" layoutY="262.0" />
       <Button fx:id="addFruitButton" layoutX="36.0" layoutY="297.0" mnemonicParsing="false" text="Hozzáadás" />
-      <Button fx:id="saveButton" layoutX="36.0" layoutY="328.0" mnemonicParsing="false" text="Mentés" />
+      <Button fx:id="modifyButton" layoutX="36.0" layoutY="328.0" mnemonicParsing="false" text="Módosítás" />
       <Button fx:id="deleteButton" layoutX="36.0" layoutY="362.0" mnemonicParsing="false" text="Törlés" />
    </children>
 </Pane>
